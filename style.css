@@ -1,0 +1,150 @@
+
+#heading{
+    text-align: right;
+    color: white;
+    background-color: blue;
+}
+.images
+{
+    height:1px;
+    width:1px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background: #4667ac;
+    height: 82px;
+}
+p4
+{
+    color: rgb(49, 49, 49);
+    font-size: 15px;
+}
+label1
+{
+    color:white;
+}
+p1
+{
+    color:rgb(50, 50, 102);
+}
+button{
+    width: 50px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(11, 92, 168);
+    border-radius: 3px;
+}
+#button2{
+    background-color: rgb(14, 172, 0);
+    position: relative;
+    left: 100px;
+    font-size: 17px;
+    color: white;
+    width: 120px;
+    height: 30px;
+    font-family: Roboto;
+    background: linear-gradient(rgb(40, 228, 2),rgb(0, 105, 0));
+    font-weight: bolder;
+    border-radius: 6px;
+}
+h1
+{
+    font: bolder;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size: 45px;
+    letter-spacing: 0px;
+}
+form
+{
+    position: relative;
+    left: 700px;
+    top: 22px;
+}
+body1
+{
+    position: absolute;
+    left: 20px;
+}
+body2
+{
+    position: relative;
+    left: 800px;
+}
+body
+{
+    background:#d1d9e6 ;
+    
+}
+a
+{
+    color: rgb(85, 173, 214);
+    position: relative;
+    left: 360px;
+}
+p2
+{
+    color: dimgrey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-weight: bold;
+}
+p3
+{
+    color:dimgray ;
+    font-family:"Trebuchet MS" ;
+    font-weight: bold;
+}
+h3
+{
+    font-size: 30px;
+}
+label
+{
+    border-radius: 3px;
+    font-size: 16px;
+}
+#Email{
+    width: 357px;
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+#Password{
+    width: 357px;
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+#Firstname{
+    border-radius: 6px;
+    padding: 6px;
+    font-size: 16px;
+}
+#Surname{
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+#Day{
+    padding-top: 15px;
+}
+#Month{
+    height: 8px;
+}
+#Year{
+    height: 8px;
+}
+#female{
+    font: size 17px; ;
+    font-weight:bolder ;
+}
+#male{
+    font-size: 17px;
+    font-weight:bolder ;
+}
+#custom{
+    font-size:17px ;
+    font-weight:bolder ;
+}
